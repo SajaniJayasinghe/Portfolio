@@ -56,7 +56,7 @@ export const Banner = () => {
                     isVisible ? "animate__animated animate__fadeIn" : ""
                   }
                 >
-                  <h1 style={{ fontSize: "50px" }}>
+                  <h1 style={{ fontSize: "50px", marginTop: "-18px" }}>
                     Hello!
                     <span
                       style={{
@@ -91,12 +91,16 @@ export const Banner = () => {
                     React Native, Flutter, Android, and Swift platforms.
                   </p>
                   <Button
+                    href="https://drive.google.com/file/d/1evS8PPTbJWPNWW53bbiuD3W7KYDiQqwn/view?usp=drive_link"
+                    download
                     style={{
                       backgroundColor: "#357EC7",
                       borderColor: "#357EC7",
                       marginTop: "40px",
                       borderRadius: "5px",
                       padding: "10px 20px",
+                      fontSize: "20px",
+                      fontWeight: "bold",
                     }}
                   >
                     Download CV
