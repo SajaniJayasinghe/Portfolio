@@ -91,7 +91,7 @@ export const Banner = () => {
                     React Native, Flutter, Android, and Swift platforms.
                   </p>
                   <Button
-                    href="https://drive.google.com/file/d/1evS8PPTbJWPNWW53bbiuD3W7KYDiQqwn/view?usp=drive_link"
+                    href="https://github.com/SajaniJayasinghe/Portfolio.git"
                     download
                     style={{
                       backgroundColor: "#357EC7",
